@@ -6,7 +6,8 @@ oneda
 twoda
 threeda
 
-
+hindi
+kannada
 
 
 thank you
